@@ -4,4 +4,3 @@
 - Learning: Python + Git automation
 - Progress: Setting up my first automation project
 - Next step: Automate daily syncing
--java learning
